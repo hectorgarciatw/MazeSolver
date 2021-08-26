@@ -1,0 +1,16 @@
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.exe
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.deps.json
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.runtimeconfig.json
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.runtimeconfig.dev.json
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.dll
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\ref\MazeSolver.dll
+C:\Users\Tapa\Desktop\MazeSolver\bin\Debug\net5.0\MazeSolver.pdb
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.csprojAssemblyReference.cache
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.AssemblyInfoInputs.cache
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.AssemblyInfo.cs
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.csproj.CoreCompileInputs.cache
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.dll
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\ref\MazeSolver.dll
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.pdb
+C:\Users\Tapa\Desktop\MazeSolver\obj\Debug\net5.0\MazeSolver.genruntimeconfig.cache
